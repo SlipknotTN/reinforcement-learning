@@ -1,0 +1,601 @@
+Running...
+Num episode 100 / 20000, Avg score last 100 runs: -497.95
+Reached epsilon: 0.818566804688428
+Episode score: -219.0
+Num episode 200 / 20000, Avg score last 100 runs: -490.47
+Reached epsilon: 0.670051613737823
+Episode score: -197.0
+Num episode 300 / 20000, Avg score last 100 runs: -478.88
+Reached epsilon: 0.5484820084336942
+Episode score: -500.0
+Num episode 400 / 20000, Avg score last 100 runs: -478.36
+Reached epsilon: 0.4489691650726603
+Episode score: -500.0
+Num episode 500 / 20000, Avg score last 100 runs: -476.07
+Reached epsilon: 0.36751125485715885
+Episode score: -500.0
+Num episode 600 / 20000, Avg score last 100 runs: -467.38
+Reached epsilon: 0.3008325135754587
+Episode score: -289.0
+Num episode 700 / 20000, Avg score last 100 runs: -460.53
+Reached epsilon: 0.24625150938385126
+Episode score: -500.0
+Num episode 800 / 20000, Avg score last 100 runs: -446.81
+Reached epsilon: 0.20157331118604155
+Episode score: -439.0
+Num episode 900 / 20000, Avg score last 100 runs: -471.22
+Reached epsilon: 0.1650012212480241
+Episode score: -290.0
+Num episode 1000 / 20000, Avg score last 100 runs: -436.2
+Reached epsilon: 0.13506452244668335
+Episode score: -193.0
+Num episode 1100 / 20000, Avg score last 100 runs: -447.9
+Reached epsilon: 0.11055933456595012
+Episode score: -443.0
+Num episode 1200 / 20000, Avg score last 100 runs: -435.22
+Reached epsilon: 0.09050020122412858
+Episode score: -199.0
+Num episode 1300 / 20000, Avg score last 100 runs: -436.19
+Reached epsilon: 0.07408046053969458
+Episode score: -432.0
+Num episode 1400 / 20000, Avg score last 100 runs: -434.45
+Reached epsilon: 0.06063980587382501
+Episode score: -500.0
+Num episode 1500 / 20000, Avg score last 100 runs: -411.61
+Reached epsilon: 0.0496377321310635
+Episode score: -500.0
+Num episode 1600 / 20000, Avg score last 100 runs: -423.67
+Reached epsilon: 0.04063179978250474
+Episode score: -500.0
+Num episode 1700 / 20000, Avg score last 100 runs: -423.98
+Reached epsilon: 0.033259842516704864
+Episode score: -265.0
+Num episode 1800 / 20000, Avg score last 100 runs: -410.36
+Reached epsilon: 0.0272254030133394
+Episode score: -500.0
+Num episode 1900 / 20000, Avg score last 100 runs: -417.86
+Reached epsilon: 0.022285811150983933
+Episode score: -500.0
+Num episode 2000 / 20000, Avg score last 100 runs: -392.2
+Reached epsilon: 0.018242425223750657
+Episode score: -500.0
+Num episode 2100 / 20000, Avg score last 100 runs: -388.36
+Reached epsilon: 0.014932643725173162
+Episode score: -401.0
+Num episode 2200 / 20000, Avg score last 100 runs: -385.74
+Reached epsilon: 0.01222336645966569
+Episode score: -500.0
+Num episode 2300 / 20000, Avg score last 100 runs: -385.8
+Reached epsilon: 0.010005642025424238
+Episode score: -500.0
+Num episode 2400 / 20000, Avg score last 100 runs: -383.4
+Reached epsilon: 0.01
+Episode score: -437.0
+Num episode 2500 / 20000, Avg score last 100 runs: -361.91
+Reached epsilon: 0.01
+Episode score: -500.0
+Num episode 2600 / 20000, Avg score last 100 runs: -368.92
+Reached epsilon: 0.01
+Episode score: -493.0
+Num episode 2700 / 20000, Avg score last 100 runs: -379.58
+Reached epsilon: 0.01
+Episode score: -314.0
+Num episode 2800 / 20000, Avg score last 100 runs: -396.38
+Reached epsilon: 0.01
+Episode score: -449.0
+Num episode 2900 / 20000, Avg score last 100 runs: -355.38
+Reached epsilon: 0.01
+Episode score: -355.0
+Num episode 3000 / 20000, Avg score last 100 runs: -341.57
+Reached epsilon: 0.01
+Episode score: -485.0
+Num episode 3100 / 20000, Avg score last 100 runs: -345.26
+Reached epsilon: 0.01
+Episode score: -201.0
+Num episode 3200 / 20000, Avg score last 100 runs: -341.58
+Reached epsilon: 0.01
+Episode score: -211.0
+Num episode 3300 / 20000, Avg score last 100 runs: -327.4
+Reached epsilon: 0.01
+Episode score: -288.0
+Num episode 3400 / 20000, Avg score last 100 runs: -312.48
+Reached epsilon: 0.01
+Episode score: -153.0
+Num episode 3500 / 20000, Avg score last 100 runs: -320.04
+Reached epsilon: 0.01
+Episode score: -284.0
+Num episode 3600 / 20000, Avg score last 100 runs: -321.63
+Reached epsilon: 0.01
+Episode score: -232.0
+Num episode 3700 / 20000, Avg score last 100 runs: -325.35
+Reached epsilon: 0.01
+Episode score: -432.0
+Num episode 3800 / 20000, Avg score last 100 runs: -334.69
+Reached epsilon: 0.01
+Episode score: -407.0
+Num episode 3900 / 20000, Avg score last 100 runs: -367.49
+Reached epsilon: 0.01
+Episode score: -243.0
+Num episode 4000 / 20000, Avg score last 100 runs: -358.08
+Reached epsilon: 0.01
+Episode score: -240.0
+Num episode 4100 / 20000, Avg score last 100 runs: -347.79
+Reached epsilon: 0.01
+Episode score: -209.0
+Num episode 4200 / 20000, Avg score last 100 runs: -330.71
+Reached epsilon: 0.01
+Episode score: -293.0
+Num episode 4300 / 20000, Avg score last 100 runs: -317.8
+Reached epsilon: 0.01
+Episode score: -266.0
+Num episode 4400 / 20000, Avg score last 100 runs: -322.19
+Reached epsilon: 0.01
+Episode score: -420.0
+Num episode 4500 / 20000, Avg score last 100 runs: -306.15
+Reached epsilon: 0.01
+Episode score: -216.0
+Num episode 4600 / 20000, Avg score last 100 runs: -305.43
+Reached epsilon: 0.01
+Episode score: -380.0
+Num episode 4700 / 20000, Avg score last 100 runs: -279.22
+Reached epsilon: 0.01
+Episode score: -332.0
+Num episode 4800 / 20000, Avg score last 100 runs: -304.65
+Reached epsilon: 0.01
+Episode score: -224.0
+Num episode 4900 / 20000, Avg score last 100 runs: -307.42
+Reached epsilon: 0.01
+Episode score: -432.0
+Num episode 5000 / 20000, Avg score last 100 runs: -365.14
+Reached epsilon: 0.01
+Episode score: -232.0
+Num episode 5100 / 20000, Avg score last 100 runs: -344.53
+Reached epsilon: 0.01
+Episode score: -500.0
+Num episode 5200 / 20000, Avg score last 100 runs: -285.52
+Reached epsilon: 0.01
+Episode score: -483.0
+Num episode 5300 / 20000, Avg score last 100 runs: -295.89
+Reached epsilon: 0.01
+Episode score: -289.0
+Num episode 5400 / 20000, Avg score last 100 runs: -273.99
+Reached epsilon: 0.01
+Episode score: -121.0
+Num episode 5500 / 20000, Avg score last 100 runs: -270.44
+Reached epsilon: 0.01
+Episode score: -314.0
+Num episode 5600 / 20000, Avg score last 100 runs: -281.84
+Reached epsilon: 0.01
+Episode score: -350.0
+Num episode 5700 / 20000, Avg score last 100 runs: -293.48
+Reached epsilon: 0.01
+Episode score: -241.0
+Num episode 5800 / 20000, Avg score last 100 runs: -271.63
+Reached epsilon: 0.01
+Episode score: -191.0
+Num episode 5900 / 20000, Avg score last 100 runs: -271.63
+Reached epsilon: 0.01
+Episode score: -429.0
+Num episode 6000 / 20000, Avg score last 100 runs: -274.07
+Reached epsilon: 0.01
+Episode score: -241.0
+Num episode 6100 / 20000, Avg score last 100 runs: -257.11
+Reached epsilon: 0.01
+Episode score: -327.0
+Num episode 6200 / 20000, Avg score last 100 runs: -275.72
+Reached epsilon: 0.01
+Episode score: -158.0
+Num episode 6300 / 20000, Avg score last 100 runs: -266.08
+Reached epsilon: 0.01
+Episode score: -344.0
+Num episode 6400 / 20000, Avg score last 100 runs: -257.77
+Reached epsilon: 0.01
+Episode score: -476.0
+Num episode 6500 / 20000, Avg score last 100 runs: -270.02
+Reached epsilon: 0.01
+Episode score: -266.0
+Num episode 6600 / 20000, Avg score last 100 runs: -283.57
+Reached epsilon: 0.01
+Episode score: -192.0
+Num episode 6700 / 20000, Avg score last 100 runs: -276.79
+Reached epsilon: 0.01
+Episode score: -305.0
+Num episode 6800 / 20000, Avg score last 100 runs: -279.38
+Reached epsilon: 0.01
+Episode score: -229.0
+Num episode 6900 / 20000, Avg score last 100 runs: -272.87
+Reached epsilon: 0.01
+Episode score: -204.0
+Num episode 7000 / 20000, Avg score last 100 runs: -261.22
+Reached epsilon: 0.01
+Episode score: -182.0
+Num episode 7100 / 20000, Avg score last 100 runs: -279.5
+Reached epsilon: 0.01
+Episode score: -293.0
+Num episode 7200 / 20000, Avg score last 100 runs: -286.13
+Reached epsilon: 0.01
+Episode score: -309.0
+Num episode 7300 / 20000, Avg score last 100 runs: -266.9
+Reached epsilon: 0.01
+Episode score: -192.0
+Num episode 7400 / 20000, Avg score last 100 runs: -287.39
+Reached epsilon: 0.01
+Episode score: -230.0
+Num episode 7500 / 20000, Avg score last 100 runs: -249.16
+Reached epsilon: 0.01
+Episode score: -441.0
+Num episode 7600 / 20000, Avg score last 100 runs: -291.87
+Reached epsilon: 0.01
+Episode score: -226.0
+Num episode 7700 / 20000, Avg score last 100 runs: -287.76
+Reached epsilon: 0.01
+Episode score: -184.0
+Num episode 7800 / 20000, Avg score last 100 runs: -284.11
+Reached epsilon: 0.01
+Episode score: -128.0
+Num episode 7900 / 20000, Avg score last 100 runs: -270.89
+Reached epsilon: 0.01
+Episode score: -231.0
+Num episode 8000 / 20000, Avg score last 100 runs: -261.23
+Reached epsilon: 0.01
+Episode score: -174.0
+Num episode 8100 / 20000, Avg score last 100 runs: -258.79
+Reached epsilon: 0.01
+Episode score: -207.0
+Num episode 8200 / 20000, Avg score last 100 runs: -263.65
+Reached epsilon: 0.01
+Episode score: -274.0
+Num episode 8300 / 20000, Avg score last 100 runs: -321.16
+Reached epsilon: 0.01
+Episode score: -308.0
+Num episode 8400 / 20000, Avg score last 100 runs: -324.71
+Reached epsilon: 0.01
+Episode score: -215.0
+Num episode 8500 / 20000, Avg score last 100 runs: -280.1
+Reached epsilon: 0.01
+Episode score: -214.0
+Num episode 8600 / 20000, Avg score last 100 runs: -237.84
+Reached epsilon: 0.01
+Episode score: -136.0
+Num episode 8700 / 20000, Avg score last 100 runs: -274.69
+Reached epsilon: 0.01
+Episode score: -291.0
+Num episode 8800 / 20000, Avg score last 100 runs: -253.95
+Reached epsilon: 0.01
+Episode score: -190.0
+Num episode 8900 / 20000, Avg score last 100 runs: -249.23
+Reached epsilon: 0.01
+Episode score: -347.0
+Num episode 9000 / 20000, Avg score last 100 runs: -265.75
+Reached epsilon: 0.01
+Episode score: -194.0
+Num episode 9100 / 20000, Avg score last 100 runs: -256.19
+Reached epsilon: 0.01
+Episode score: -342.0
+Num episode 9200 / 20000, Avg score last 100 runs: -261.22
+Reached epsilon: 0.01
+Episode score: -389.0
+Num episode 9300 / 20000, Avg score last 100 runs: -272.03
+Reached epsilon: 0.01
+Episode score: -221.0
+Num episode 9400 / 20000, Avg score last 100 runs: -232.11
+Reached epsilon: 0.01
+Episode score: -320.0
+Num episode 9500 / 20000, Avg score last 100 runs: -252.91
+Reached epsilon: 0.01
+Episode score: -221.0
+Num episode 9600 / 20000, Avg score last 100 runs: -249.13
+Reached epsilon: 0.01
+Episode score: -239.0
+Num episode 9700 / 20000, Avg score last 100 runs: -242.58
+Reached epsilon: 0.01
+Episode score: -271.0
+Num episode 9800 / 20000, Avg score last 100 runs: -263.07
+Reached epsilon: 0.01
+Episode score: -500.0
+Num episode 9900 / 20000, Avg score last 100 runs: -285.04
+Reached epsilon: 0.01
+Episode score: -290.0
+Num episode 10000 / 20000, Avg score last 100 runs: -256.27
+Reached epsilon: 0.01
+Episode score: -314.0
+Num episode 10100 / 20000, Avg score last 100 runs: -240.99
+Reached epsilon: 0.01
+Episode score: -229.0
+Num episode 10200 / 20000, Avg score last 100 runs: -249.95
+Reached epsilon: 0.01
+Episode score: -348.0
+Num episode 10300 / 20000, Avg score last 100 runs: -229.68
+Reached epsilon: 0.01
+Episode score: -129.0
+Num episode 10400 / 20000, Avg score last 100 runs: -231.0
+Reached epsilon: 0.01
+Episode score: -215.0
+Num episode 10500 / 20000, Avg score last 100 runs: -243.76
+Reached epsilon: 0.01
+Episode score: -122.0
+Num episode 10600 / 20000, Avg score last 100 runs: -230.77
+Reached epsilon: 0.01
+Episode score: -254.0
+Num episode 10700 / 20000, Avg score last 100 runs: -224.24
+Reached epsilon: 0.01
+Episode score: -110.0
+Num episode 10800 / 20000, Avg score last 100 runs: -221.24
+Reached epsilon: 0.01
+Episode score: -481.0
+Num episode 10900 / 20000, Avg score last 100 runs: -229.05
+Reached epsilon: 0.01
+Episode score: -369.0
+Num episode 11000 / 20000, Avg score last 100 runs: -234.01
+Reached epsilon: 0.01
+Episode score: -202.0
+Num episode 11100 / 20000, Avg score last 100 runs: -232.96
+Reached epsilon: 0.01
+Episode score: -149.0
+Num episode 11200 / 20000, Avg score last 100 runs: -251.91
+Reached epsilon: 0.01
+Episode score: -280.0
+Num episode 11300 / 20000, Avg score last 100 runs: -245.0
+Reached epsilon: 0.01
+Episode score: -216.0
+Num episode 11400 / 20000, Avg score last 100 runs: -243.5
+Reached epsilon: 0.01
+Episode score: -289.0
+Num episode 11500 / 20000, Avg score last 100 runs: -240.87
+Reached epsilon: 0.01
+Episode score: -378.0
+Num episode 11600 / 20000, Avg score last 100 runs: -223.37
+Reached epsilon: 0.01
+Episode score: -350.0
+Num episode 11700 / 20000, Avg score last 100 runs: -240.96
+Reached epsilon: 0.01
+Episode score: -138.0
+Num episode 11800 / 20000, Avg score last 100 runs: -241.34
+Reached epsilon: 0.01
+Episode score: -310.0
+Num episode 11900 / 20000, Avg score last 100 runs: -244.76
+Reached epsilon: 0.01
+Episode score: -319.0
+Num episode 12000 / 20000, Avg score last 100 runs: -237.04
+Reached epsilon: 0.01
+Episode score: -275.0
+Num episode 12100 / 20000, Avg score last 100 runs: -213.82
+Reached epsilon: 0.01
+Episode score: -107.0
+Num episode 12200 / 20000, Avg score last 100 runs: -224.84
+Reached epsilon: 0.01
+Episode score: -242.0
+Num episode 12300 / 20000, Avg score last 100 runs: -227.95
+Reached epsilon: 0.01
+Episode score: -178.0
+Num episode 12400 / 20000, Avg score last 100 runs: -241.74
+Reached epsilon: 0.01
+Episode score: -169.0
+Num episode 12500 / 20000, Avg score last 100 runs: -237.73
+Reached epsilon: 0.01
+Episode score: -325.0
+Num episode 12600 / 20000, Avg score last 100 runs: -208.85
+Reached epsilon: 0.01
+Episode score: -195.0
+Num episode 12700 / 20000, Avg score last 100 runs: -233.57
+Reached epsilon: 0.01
+Episode score: -233.0
+Num episode 12800 / 20000, Avg score last 100 runs: -231.66
+Reached epsilon: 0.01
+Episode score: -243.0
+Num episode 12900 / 20000, Avg score last 100 runs: -232.73
+Reached epsilon: 0.01
+Episode score: -159.0
+Num episode 13000 / 20000, Avg score last 100 runs: -240.87
+Reached epsilon: 0.01
+Episode score: -321.0
+Num episode 13100 / 20000, Avg score last 100 runs: -247.56
+Reached epsilon: 0.01
+Episode score: -179.0
+Num episode 13200 / 20000, Avg score last 100 runs: -234.43
+Reached epsilon: 0.01
+Episode score: -214.0
+Num episode 13300 / 20000, Avg score last 100 runs: -230.9
+Reached epsilon: 0.01
+Episode score: -190.0
+Num episode 13400 / 20000, Avg score last 100 runs: -228.17
+Reached epsilon: 0.01
+Episode score: -314.0
+Num episode 13500 / 20000, Avg score last 100 runs: -235.0
+Reached epsilon: 0.01
+Episode score: -155.0
+Num episode 13600 / 20000, Avg score last 100 runs: -214.49
+Reached epsilon: 0.01
+Episode score: -233.0
+Num episode 13700 / 20000, Avg score last 100 runs: -246.63
+Reached epsilon: 0.01
+Episode score: -384.0
+Num episode 13800 / 20000, Avg score last 100 runs: -253.68
+Reached epsilon: 0.01
+Episode score: -370.0
+Num episode 13900 / 20000, Avg score last 100 runs: -226.48
+Reached epsilon: 0.01
+Episode score: -208.0
+Num episode 14000 / 20000, Avg score last 100 runs: -223.92
+Reached epsilon: 0.01
+Episode score: -331.0
+Num episode 14100 / 20000, Avg score last 100 runs: -220.32
+Reached epsilon: 0.01
+Episode score: -211.0
+Num episode 14200 / 20000, Avg score last 100 runs: -234.75
+Reached epsilon: 0.01
+Episode score: -187.0
+Num episode 14300 / 20000, Avg score last 100 runs: -231.86
+Reached epsilon: 0.01
+Episode score: -144.0
+Num episode 14400 / 20000, Avg score last 100 runs: -216.82
+Reached epsilon: 0.01
+Episode score: -281.0
+Num episode 14500 / 20000, Avg score last 100 runs: -214.89
+Reached epsilon: 0.01
+Episode score: -159.0
+Num episode 14600 / 20000, Avg score last 100 runs: -232.34
+Reached epsilon: 0.01
+Episode score: -154.0
+Num episode 14700 / 20000, Avg score last 100 runs: -218.06
+Reached epsilon: 0.01
+Episode score: -213.0
+Num episode 14800 / 20000, Avg score last 100 runs: -215.63
+Reached epsilon: 0.01
+Episode score: -178.0
+Num episode 14900 / 20000, Avg score last 100 runs: -223.95
+Reached epsilon: 0.01
+Episode score: -126.0
+Num episode 15000 / 20000, Avg score last 100 runs: -216.05
+Reached epsilon: 0.01
+Episode score: -123.0
+Num episode 15100 / 20000, Avg score last 100 runs: -220.52
+Reached epsilon: 0.01
+Episode score: -201.0
+Num episode 15200 / 20000, Avg score last 100 runs: -204.27
+Reached epsilon: 0.01
+Episode score: -195.0
+Num episode 15300 / 20000, Avg score last 100 runs: -220.68
+Reached epsilon: 0.01
+Episode score: -222.0
+Num episode 15400 / 20000, Avg score last 100 runs: -213.07
+Reached epsilon: 0.01
+Episode score: -282.0
+Num episode 15500 / 20000, Avg score last 100 runs: -212.05
+Reached epsilon: 0.01
+Episode score: -148.0
+Num episode 15600 / 20000, Avg score last 100 runs: -191.6
+Reached epsilon: 0.01
+Episode score: -152.0
+Num episode 15700 / 20000, Avg score last 100 runs: -212.67
+Reached epsilon: 0.01
+Episode score: -248.0
+Num episode 15800 / 20000, Avg score last 100 runs: -228.38
+Reached epsilon: 0.01
+Episode score: -242.0
+Num episode 15900 / 20000, Avg score last 100 runs: -192.81
+Reached epsilon: 0.01
+Episode score: -151.0
+Num episode 16000 / 20000, Avg score last 100 runs: -205.32
+Reached epsilon: 0.01
+Episode score: -129.0
+Num episode 16100 / 20000, Avg score last 100 runs: -203.35
+Reached epsilon: 0.01
+Episode score: -183.0
+Num episode 16200 / 20000, Avg score last 100 runs: -218.15
+Reached epsilon: 0.01
+Episode score: -149.0
+Num episode 16300 / 20000, Avg score last 100 runs: -204.57
+Reached epsilon: 0.01
+Episode score: -152.0
+Num episode 16400 / 20000, Avg score last 100 runs: -233.45
+Reached epsilon: 0.01
+Episode score: -313.0
+Num episode 16500 / 20000, Avg score last 100 runs: -218.57
+Reached epsilon: 0.01
+Episode score: -144.0
+Num episode 16600 / 20000, Avg score last 100 runs: -203.93
+Reached epsilon: 0.01
+Episode score: -210.0
+Num episode 16700 / 20000, Avg score last 100 runs: -233.89
+Reached epsilon: 0.01
+Episode score: -193.0
+Num episode 16800 / 20000, Avg score last 100 runs: -207.35
+Reached epsilon: 0.01
+Episode score: -246.0
+Num episode 16900 / 20000, Avg score last 100 runs: -218.31
+Reached epsilon: 0.01
+Episode score: -110.0
+Num episode 17000 / 20000, Avg score last 100 runs: -198.09
+Reached epsilon: 0.01
+Episode score: -191.0
+Num episode 17100 / 20000, Avg score last 100 runs: -206.84
+Reached epsilon: 0.01
+Episode score: -187.0
+Num episode 17200 / 20000, Avg score last 100 runs: -208.3
+Reached epsilon: 0.01
+Episode score: -128.0
+Num episode 17300 / 20000, Avg score last 100 runs: -207.03
+Reached epsilon: 0.01
+Episode score: -177.0
+Num episode 17400 / 20000, Avg score last 100 runs: -183.02
+Reached epsilon: 0.01
+Episode score: -133.0
+Num episode 17500 / 20000, Avg score last 100 runs: -228.62
+Reached epsilon: 0.01
+Episode score: -167.0
+Num episode 17600 / 20000, Avg score last 100 runs: -218.94
+Reached epsilon: 0.01
+Episode score: -283.0
+Num episode 17700 / 20000, Avg score last 100 runs: -224.23
+Reached epsilon: 0.01
+Episode score: -146.0
+Num episode 17800 / 20000, Avg score last 100 runs: -249.66
+Reached epsilon: 0.01
+Episode score: -445.0
+Num episode 17900 / 20000, Avg score last 100 runs: -268.4
+Reached epsilon: 0.01
+Episode score: -216.0
+Num episode 18000 / 20000, Avg score last 100 runs: -266.23
+Reached epsilon: 0.01
+Episode score: -381.0
+Num episode 18100 / 20000, Avg score last 100 runs: -252.87
+Reached epsilon: 0.01
+Episode score: -157.0
+Num episode 18200 / 20000, Avg score last 100 runs: -227.82
+Reached epsilon: 0.01
+Episode score: -330.0
+Num episode 18300 / 20000, Avg score last 100 runs: -219.23
+Reached epsilon: 0.01
+Episode score: -191.0
+Num episode 18400 / 20000, Avg score last 100 runs: -238.5
+Reached epsilon: 0.01
+Episode score: -137.0
+Num episode 18500 / 20000, Avg score last 100 runs: -213.96
+Reached epsilon: 0.01
+Episode score: -176.0
+Num episode 18600 / 20000, Avg score last 100 runs: -204.33
+Reached epsilon: 0.01
+Episode score: -150.0
+Num episode 18700 / 20000, Avg score last 100 runs: -202.3
+Reached epsilon: 0.01
+Episode score: -217.0
+Num episode 18800 / 20000, Avg score last 100 runs: -210.48
+Reached epsilon: 0.01
+Episode score: -500.0
+Num episode 18900 / 20000, Avg score last 100 runs: -204.83
+Reached epsilon: 0.01
+Episode score: -184.0
+Num episode 19000 / 20000, Avg score last 100 runs: -205.71
+Reached epsilon: 0.01
+Episode score: -284.0
+Num episode 19100 / 20000, Avg score last 100 runs: -212.41
+Reached epsilon: 0.01
+Episode score: -187.0
+Num episode 19200 / 20000, Avg score last 100 runs: -215.48
+Reached epsilon: 0.01
+Episode score: -128.0
+Num episode 19300 / 20000, Avg score last 100 runs: -206.32
+Reached epsilon: 0.01
+Episode score: -221.0
+Num episode 19400 / 20000, Avg score last 100 runs: -215.67
+Reached epsilon: 0.01
+Episode score: -89.0
+Num episode 19500 / 20000, Avg score last 100 runs: -212.42
+Reached epsilon: 0.01
+Episode score: -159.0
+Num episode 19600 / 20000, Avg score last 100 runs: -198.56
+Reached epsilon: 0.01
+Episode score: -243.0
+Num episode 19700 / 20000, Avg score last 100 runs: -208.93
+Reached epsilon: 0.01
+Episode score: -132.0
+Num episode 19800 / 20000, Avg score last 100 runs: -201.71
+Reached epsilon: 0.01
+Episode score: -94.0
+Num episode 19900 / 20000, Avg score last 100 runs: -205.24
+Reached epsilon: 0.01
+Episode score: -167.0
+Num episode 20000 / 20000, Avg score last 100 runs: -195.73
+Reached epsilon: 0.01
+Episode score: -188.0
